@@ -1,0 +1,23 @@
+1) peptide sequences of two species in fasta format
+For example (downloaded from www.phytozome.net):
+Osativa_204_peptide.fa
+Zmays_181_peptide.fa
+
+2) GFF3 files of two species
+For example (downloaded from www.phytozome.net):
+Osativa_204_gene.gff3
+Zmays_181_gene.gff3
+
+3) output file from BBH-LS pipleine
+For example (in test directory):
+ZM-OS_BBH-LS.spairs
+
+4) sample test dataset from Zea mays
+maize-test_1.fq
+maize-test_2.fq
+
+5) softwares need to be installed prior to use this package
+bowtie
+CLUSTALW
+RNAZ
+RNAalifold
