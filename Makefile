@@ -1,4 +1,4 @@
-SHELL=/bin/bash
+# SHELL=/bin/bash
 
 bin: bin/extract_blast_out_100 bin/ordCons-genePair bin/blast_cons_rgn bin/fwd_rev \
 	bin/blast_filterE bin/extract_cand_fwd_wrap bin/integrate_2way bin/rnaalifold_aln_rgn \
